@@ -1,0 +1,1 @@
+(()=>{var o,r={681:o=>{o.exports=()=>"Hello no joke for you"}},e={};o=function o(t){var n=e[t];if(void 0!==n)return n.exports;var s=e[t]={exports:{}};return r[t](s,s.exports,o),s.exports}(681),console.log(o())})();
